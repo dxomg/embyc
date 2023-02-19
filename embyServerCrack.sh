@@ -2,8 +2,8 @@
 
 VER=1.0
 USERNAME="qcgzxw"
-PROJECT="https://github.com/qcgzxw/emby-server-crack"
-PROJECT_NAME="emby-server-crack"
+PROJECT="https://github.com/dxomg/embyc"
+PROJECT_NAME="embyc"
 BRANCH="main"
 GITHUB_CDN="https://cdn.jsdelivr.net/gh"
 CRACK_FILE_DIR="${GITHUB_CDN}/${USERNAME}/${PROJECT_NAME}@${BRANCH}/crack"
