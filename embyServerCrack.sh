@@ -1,7 +1,7 @@
 #!/bin/sh
 
 VER=1.0
-USERNAME="qcgzxw"
+USERNAME="dxomg"
 PROJECT="https://github.com/dxomg/embyc"
 PROJECT_NAME="embyc"
 BRANCH="main"
